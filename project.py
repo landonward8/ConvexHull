@@ -6,7 +6,6 @@ from bridges.bridges import Bridges
 from bridges.polyline import Polyline
 from bridges.circle import Circle
 from bridges.symbol_collection import SymbolCollection
-from itertools import cycle
 #landon ward
 
 def load_dataset(file_path):
