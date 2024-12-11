@@ -1,0 +1,1 @@
+This is a convex hull of US cities. To run the program use python divide_and_conquer CA , works with all US states and if you leave blank it will be the entire united stats excluding Hawaii and Alaska.
